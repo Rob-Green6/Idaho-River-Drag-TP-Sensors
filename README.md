@@ -1,5 +1,5 @@
+![image](https://github.com/Rob-Green6/Idaho-River-Drag-TP-Sensors/assets/141792831/fca1e349-bbbc-4f57-a032-9ff89588720f)
 
-![ISF Stake](https://github.com/Rob-Green6/Idaho-Streams-Flux-Stake/assets/141792831/e5687bbb-afc4-48ea-a6ee-77d7e37203da)
 # Idaho-River-Drag-TP-Sensors
 The Idaho River Drag system is microcontroller based and can be used to collect atmospheric, surface, and submerged temperature and pressure data while the sensors are dragged through a stream.
 
